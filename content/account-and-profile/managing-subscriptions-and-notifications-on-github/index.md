@@ -1,4 +1,4 @@
----
+---https://developers.google.com/ar/whatsnew-arcore#search_for_points_of_interest_in_geospatial_creator_for_unity
 title: Managing subscriptions and notifications on GitHub
 intro: 'You can specify how to receive notifications, the repositories you are interested in, and the types of activity you want to hear about.'
 redirect_from:
